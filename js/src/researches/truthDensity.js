@@ -37,7 +37,7 @@ const findTruths = function( text, language ) {
  *
  * @param {string} text The text to check for truths.
  * @param {string} language The text to check for truths.
- * @returns {number} the percentage of truths in the text.
+ * @returns {number} The percentage of truths in the text.
  */
 const calculateTruthDensity = function( text, language ) {
 	let truthCount = findTruths( text, language );

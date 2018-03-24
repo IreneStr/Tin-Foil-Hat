@@ -1,9 +1,9 @@
 {
   "name": "Fact-Check-for-YoastSEO",
   "version": "0.1",
-  "description": "This plugin helps you write awesome conspiring content.",
+  "description": "This plugin helps you write fact-checked content.",
   "main": "index.js",
-  "repository": "https://github.com/IreneStr/Tin-Foil-Hat.git",
+  "repository": "https://github.com/Yoast/fact-check.git",
   "author": "IreneStr <irene@yoast.com>",
   "license": "GPL-3.0",
   "devDependencies": {
